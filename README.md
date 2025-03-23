@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **Pingjun.Hong@campus.lmu.de**
 
+- 🐌 Currently on-going projects:
+  Evaluating and Enhancing Multi-stage Pipelines for Cross-lingual Information Retrieval
+  Within-Label Variation in Natural Language Inference: A Linguistic Taxonomy for Explanations and Its Impact on Model Interpretation of Label Decisions (Mater Thesis)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pingjun-hong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pingjun Hong" height="30" width="40" /></a>
