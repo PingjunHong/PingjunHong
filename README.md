@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pingjun</h1>
 <h3 align="center">A PhD student at the University of Vienna (starting September 2025)</h3>
 
-- 🪪 I am part of the [Research Group Data Mining and Machine Learning](https://dm.cs.univie.ac.at/), University of Vienna, where I will work under the supervision of [Prof. Benjamin Roth](https://www.benjaminroth.net/).
+- 🪪 I am part of the [Research Group Data Mining and Machine Learning](https://dm.cs.univie.ac.at/), University of Vienna, where I work under the supervision of [Prof. Benjamin Roth](https://www.benjaminroth.net/).
 
 - 📚 Before that, I studied at LMU Munich and completed two Master’s degrees: an M.A. in Cultural and Cognitive Linguistics (2020–2022) and an M.Sc. in Computational Linguistics (2022–2025). From 2024 to 2025, I worked as a research assistant (HiWi) at the [MaiNLP lab](https://mainlp.github.io/) with Prof. Barbara Plank, focusing on projects in human label variation and information retrieval.
 
