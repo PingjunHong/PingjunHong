@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pingjun</h1>
-<h3 align="center">A Master Student at Ludwig Maximilian University of Munich</h3>
+<h3 align="center">A PhD student at the University of Vienna</h3>
 
-- 🌱 I’m currently learning **Computational Linguistics, Natural Language Processing and related topics.**
+- 🌱 My research interests lie in **explainable artificial intelligence (XAI), explainable natural language processing, and human-centered NLP**.
 
-- 📫 How to reach me **Pingjun.Hong@campus.lmu.de**
+- 📫 How to reach me **pingjun.hong@univie.ac.at**
 
-- 🐌 Currently on-going projects:
+- 🐌 My projects:
+
+  *Not All Explanations Simulate Equally: Comparing Verbalized Feature Attributions and Self-Generated Rationales*
+
+  *Do LLM Self-Explanations Help Users Predict Model Behavior? Evaluating Counterfactual Simulatability with Pragmatics-Grounded Perturbations*
+
+  *Agree, Disagree, Explain: Decomposing Human Label Variation in NLI through the Lens of Explanations*
   
   *Evaluating and Enhancing Multi-stage Pipelines for Cross-lingual Information Retrieval*
   
-  *Within-Label Variation in Natural Language Inference: A Linguistic Taxonomy for Explanations and Its Impact on Model Interpretation of Label Decisions (Mater Thesis)*
+  *Within-Label Variation in Natural Language Inference: A Linguistic Taxonomy for Explanations and Its Impact on Model Interpretation of Label Decisions*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
